@@ -363,9 +363,9 @@ body {
 
 .contact-detail i {
     font-size: 1.8rem;
-    width: 48px;
-    height: 48px;
-    background: white;
+    width: 10px;
+    height: 30px;
+    background: #FF2C2C;
     display: inline-flex;
     align-items: center;
     justify-content: center;
