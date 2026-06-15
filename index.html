@@ -9,6 +9,10 @@
     <!-- Link para o arquivo CSS -->
      <link rel="stylesheet" href="./assets/css/styles.css">
 
+     <!-- Link para ícones do Font Awesome -->
+     <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
     <title>Camila de Souza e Castro</title>
 </head>
 <body>
@@ -16,13 +20,16 @@
 <header class="main-header">
     <div class="nav-container">
         <div class="logo">
-            Camila S. Castro <span>CRFa • Fonoaudiologia</span>
+            Camila S. Castro <span>Fonoaudióloga</span>
         </div>
         <ul class="nav-links">
             <li><a href="#inicio">Início</a></li>
             <li><a href="#trajetoria">Trajetória</a></li>
             <li><a href="#atuacao">Atuação</a></li>
             <li><a href="#contato" class="btn-header">Contato</a></li>
+            <!-- <li><a href="#contactForm">Fale Conosco</a></li> -->
+            
+            
         </ul>
     </div>
 </header>
@@ -99,7 +106,7 @@
                     <p>Atendimento a surdos e deficientes auditivos, leitura labial, adaptação ao AASI.</p>
                 </div>
                 <div class="service-card">
-                    <i class="fas fa-head-side-medical"></i>
+                    <i class="fas fa-stethoscope"></i>
                     <h3>Audiometria Ocupacional</h3>
                     <p>Exames admissionais, periódicos e demissionais conforme NR-7, laudos técnicos.</p>
                 </div>
@@ -136,7 +143,8 @@
                 </a>
             </div>
             <div class="contact-extra">
-                <i class="fas fa-stethoscope" style="font-size:2rem; color:#2c7da0;"></i>
+                <img src="./assets/img/logo.jpg" alt="Atendimento Fonoaudiologia" >
+                <!-- <i class="fas fa-stethoscope" style="font-size:2rem; color:#2c7da0;"></i> -->
                 <h3 style="margin: 0.5rem 0;">Atendimento humanizado</h3>
                 <p>Retorno ágil, escuta ativa e planos de tratamento personalizados. Convênios e particular com valores acessíveis. Atendimento para crianças, adultos e empresas.</p>
                 <hr style="margin: 1rem 0; border-color:#e2edf2;">
@@ -144,23 +152,18 @@
             </div>
         </div>
     </section>
-</main>
-
-
-<div class="form-card">
+    <section class="form-card">
 
     <h2 class="form-title">
         Envie sua dúvida ou sugestão
     </h2>
 
     <form id="contactForm">
-
         <div class="form-row">
             <label>
                 <i class="fas fa-user"></i>
                 Nome Completo
             </label>
-
             <input
                 type="text"
                 id="nome"
@@ -174,7 +177,6 @@
                 <i class="fab fa-whatsapp"></i>
                 WhatsApp
             </label>
-
             <input
                 type="tel"
                 id="telefone"
@@ -188,7 +190,6 @@
                 <i class="fas fa-envelope"></i>
                 E-mail
             </label>
-
             <input
                 type="email"
                 id="email"
@@ -228,7 +229,9 @@
         
     </form>
 
-</div>
+</section>
+</main>
+
 <!-- Footer completo com redes e informações profissionais -->
 <footer class="main-footer">
     <div class="footer-content">
@@ -238,11 +241,10 @@
             <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
         </div>
         <p>Camila de Souza e Castro - Fonoaudióloga | CRFa 12345-SP</p>
-        <p>© 2025 · Compromisso com a comunicação e qualidade de vida</p>
+        <p>© 2026 · Compromisso com a comunicação e qualidade de vida</p>
         <p style="font-size:0.7rem;">Este site é apenas para fins informativos. Em caso de emergência procure atendimento médico.</p>
     </div>
 </footer>
-
 
 <!-- JavaScript Principal -->
 <script src="assets/js/script.js"></script>

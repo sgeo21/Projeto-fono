@@ -1,4 +1,4 @@
-# 🎙️ Site Profissional - Camila de Souza e Castro
+# Site Profissional - Camila de Souza e Castro
 
 ## 📖 Sobre o Projeto
 
@@ -45,11 +45,19 @@ Projeto desenvolvido como parte das atividades da disciplina de **Projeto Integr
 ## 👨‍💻 Equipe de Desenvolvimento
 
 Projeto desenvolvido por estudantes da FATEC Araras para fins acadêmicos.
+🔗 [Geovana Cazali](https://github.com/sgeo21)
+🔗 [Giovanna Alves](https://github.com/gialvgs)
+🔗 [Jaqueline Xavier](https://github.com/JaquelineXavier)
+🔗 [Joseli Trindade]()
+🔗 [Karla Sousa](https://github.com/karlakcvs)
+🔗 [Lucas Acorsi](https://github.com/LucasAcorsi)
+🔗 [Pietra Zenatte ](https://github.com/zenattep-hub)
+🔗 [Yasmin Queiroz](https://github.com/yasmindasqueiroz-debug)
 
 ---
 
 ## 📄 Licença
 
-Este projeto possui finalidade exclusivamente educacional e acadêmica.
+Este projeto possui finalidade educacional e acadêmica.
 
 
