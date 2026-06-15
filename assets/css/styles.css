@@ -598,6 +598,47 @@ body {
         width: 100%;
         max-width: 350px;
     }
+     .form-card {
+        margin: 30px 15px;
+        padding: 25px 20px;
+        border-radius: 20px;
+    }
+
+    .form-title {
+        font-size: 1.6rem;
+        margin-bottom: 30px;
+    }
+
+    .form-row {
+        grid-template-columns: 1fr;
+        gap: 8px;
+        margin-bottom: 16px;
+    }
+
+    .form-row label {
+        font-size: 0.95rem;
+    }
+
+    .form-row input,
+    .form-row textarea {
+        width: 100%;
+        padding: 12px;
+        font-size: 1rem;
+    }
+
+    .textarea-row textarea {
+        height: 120px;
+    }
+
+    .button-area {
+        margin-top: 20px;
+    }
+
+    .btn-submit {
+        width: 300px;
+        height: 50px;
+        font-size: 1rem;
+    }
 }
 
 @media (max-width: 480px) {
